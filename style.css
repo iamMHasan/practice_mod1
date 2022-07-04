@@ -3,6 +3,10 @@ body{
 }
 .top-section{
     display: flex;
+    margin-bottom: 30px;
+}
+.about-me{
+    display: flex;
 }
 .half-width{
     width: 50%;
@@ -11,6 +15,9 @@ body{
 .half-width img{
     width: 80%;
 }
+/*.ladis-img{
+   width: 40%; 
+}*/
 h1{
     font-size: 60px;
 }
