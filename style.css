@@ -1,5 +1,5 @@
 body{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Trirong", serif;
 }
 .top-section{
     display: flex;
@@ -30,4 +30,52 @@ p{
     padding: 15px 40px;
     color: aliceblue;
     border-radius: 10px;
+}
+.text-center{
+    line-height: 50px;
+    text-align: center;
+}
+.text-center p{
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+.image-section{
+    display: flex;
+}
+.image-box{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    box-shadow: -8px -9px 50px gray;
+    padding: 30px;
+    border-radius: 10px;
+    line-height: 30px;
+}
+.image-box img{
+    width: 100%;
+}
+.image-box h1{
+    font-size: 30px;
+    color: orange;
+}
+.about-me{
+    background-image: url(images/7.png);
+}
+.about-me-para{
+    margin-top: 80px;
+}
+.social-media{
+    box-shadow: -8px -9px 50px gray;
+    display: flex;
+    padding-left: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.media{
+    width: 30%;
+    text-align: center;
+    line-height: 20px;
+    padding: 20px 30px;
 }
