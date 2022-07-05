@@ -1,5 +1,12 @@
 body{
-    font-family: "Trirong", serif;
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 .top-section{
     display: flex;
@@ -93,3 +100,6 @@ footer h1{
 .orange{
     color: orange;
 }
+   
+   /* <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong"> 
+   font-family: "Trirong", serif;*/
